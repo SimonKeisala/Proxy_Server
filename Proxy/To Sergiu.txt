@@ -1,0 +1,4 @@
+The .java files can be found in src/proxy
+All files are required to compile the program
+
+the .jar file is found in the "dist" folder.
